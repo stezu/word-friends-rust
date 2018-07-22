@@ -1,0 +1,8 @@
+[package]
+name = "word-friends-rust"
+version = "0.1.0"
+authors = ["stezu <stephen.zuniga001@gmail.com>"]
+
+[dependencies]
+strsim = "0.7.0"
+unicode-segmentation = "1.1.0"
